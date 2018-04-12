@@ -1,0 +1,196 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-10 09:16:33
+* @Last Modified by:   asus
+* @Last Modified time: 2018-04-13 09:24:08
+*/
+body{
+	/* background: red; */
+}
+.beimian{
+	width: 235px;
+	height: 487px;
+	background: -webkit-linear-gradient(top,#f8ebdb,#e6d0bb,#d9c3ae,#e2ccb7,#c9b39e,#ae9883,#97816c);
+	background: -moz-linear-gradient(top,#f8ebdb,#e6d0bb,#d9c3ae,#e2ccb7,#c9b39e,#ae9883,#97816c);
+	background: -ms-linear-gradient(top,#f8ebdb,#e6d0bb,#d9c3ae,#e2ccb7,#c9b39e,#ae9883,#97816c);
+	background: -o-linear-gradient(top,#f8ebdb,#e6d0bb,#d9c3ae,#e2ccb7,#c9b39e,#ae9883,#97816c);
+	background: linear-gradient(top,#f8ebdb,#e6d0bb,#d9c3ae,#e2ccb7,#c9b39e,#ae9883,#97816c);
+	margin: 0 auto;
+	border-radius: 16px;
+	box-shadow: 0 0 5px 2px #e8cfd2;
+	position: relative;
+}
+.shangmian{
+	width: 231px;
+	height: 6px;
+	background: #f5e4d2;
+	border-bottom: 6px solid #d8c2ad;
+	margin: 0 auto;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px;
+/* 	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px; */
+}
+/* .zuo{
+	width: 6px;
+	height: 6px;
+	background:#f5e4d2;
+    border-right: 6px solid #f5e4d2;
+    border-bottom: 6px solid #d8c2ad;
+    border-radius: 50%;
+
+} */
+.jingtou{
+	width: 55px;
+	height: 27px;
+	background: #222222;
+	float: left;
+	border-radius: 15px;
+	border: 2px solid #6c543c;
+	box-shadow: 0 0 2px 2px #fcf7f3;
+	margin-left: 26px;
+	margin-top: 6px;
+}
+.zj{
+	width: 10px;
+	height: 10px;
+	background: #4378aa;
+	border-radius: 50%;
+	box-shadow: 0 0 2px 2px #5b5b5b;
+	float: left;
+	margin-left: 9px;
+	margin-top: 8px;
+}
+.yj{
+	width: 10px;
+	height: 10px;
+	background: #4378aa;
+	border-radius: 50%;
+	box-shadow: 0 0 2px 2px #5b5b5b;
+	float: right;
+	margin-right: 9px;
+	margin-top: 8px;
+}
+.shoudiantong{
+	width: 9px;
+	height: 9px;
+	background: #f5d825;
+	float: left;
+	border: 2px solid #fcfcfa;
+	box-shadow: 0 0 2px 2px #ac8e76;
+	border-radius: 50%;
+	margin-left: 12px;
+	margin-top: 15px;
+}
+.jiesuo{
+	width: 34px;
+	height: 34px;
+	background: #dcc6b1;
+	border-radius: 8px;
+	border: 2px solid #f6efe7;
+	margin-left: 98px;
+	margin-top: 99px;
+}
+.biaozhi{
+	width: 74px;
+	height: 22px;
+	/* background: red; */
+	margin-left: 80px;
+	margin-top: 25px;
+}
+.xiamian{
+	width: 128px;
+	height: 30px;
+	/* background: red; */
+	margin-left: 53px;
+	margin-top: 228px;
+}
+.xiabian{
+	width: 235px;
+	height: 6px;
+	background: #b9a38e;
+	border-top: 6px solid #917b66;
+	margin: 0 auto;
+	margin-top: 21px;
+	border-bottom-left-radius: 16px;
+	border-bottom-right-radius: 16px;
+/* 	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px; */
+}
+.chongkou{
+	width: 23px;
+	height: 2px;
+	background: #1b1108;
+	border-top: 1px solid #857365;
+    border-left: 1px solid #857365;
+    border-right: 1px solid #857365;
+	margin-left: 105px;
+	margin-top: 3px;
+	float: left;
+	border-radius: 2px;
+}
+.erji{
+	width: 9px;
+	height: 1px;
+	background: #e4e1dc;
+	border-top: 1px solid #3c2611;
+    border-left: 1px solid #3c2611;
+    border-right: 1px solid #3c2611;
+    box-shadow: 0 0 1px 1px #110c06;
+    margin-left: 184px;
+	margin-top: -2px;
+	float: left;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+}
+.yinliang1{
+	width: 5px;
+	height: 34px;
+	background: #eacdcd;
+	border-radius: 3px;
+	float: left;
+	margin-bottom: 305px;
+	position: absolute; 
+	top: 114px;
+	left: -5px;
+	font-size: 3px;
+	color: #000;
+	text-align: center;
+	line-height: 34px;
+}
+.yinliang2{
+    width: 5px;
+	height: 34px;
+	background: #eacdcd;
+	border-radius: 3px;
+	float: left;
+	margin-bottom: 305px;
+	position: absolute;
+	top: 148px;
+	left: -5px;
+	font-size: 3px;
+	color: #000;
+	text-align: center;
+	line-height: 34px;
+}
+.kaiguan{
+	width: 5px;
+	height: 34px;
+	background: #eacdcd;
+	border-radius: 3px;
+	float: left;
+	margin-bottom: 305px;
+	position: absolute;
+	top: 205px;
+	left: -5px;
+}
+.deom{
+	display: block;
+	width: 200px;
+	height:30px;
+	margin-top: 10px;
+	margin:0 auto;
+	text-align: center;
+	font-size: 28px;
+	color: #979797;
+}

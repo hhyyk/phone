@@ -1,0 +1,124 @@
+/*
+* @Author: asus
+* @Date:   2018-03-09 08:58:43
+* @Last Modified by:   asus
+* @Last Modified time: 2018-04-13 09:23:55
+*/
+body{
+	/* background: red; */
+}
+.zhengmian{
+	width: 235px;
+	height: 487px;
+	background: #fff;
+	margin: 0 auto;
+	border-radius: 16px;
+	box-shadow: 0 0 5px 2px #e8cfd2;
+	position: relative;
+}
+.shangfang{
+	width: 235px;
+	height: 27px;
+	background: #f3f4f6;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px; 
+	overflow: hidden;
+}
+.zd{
+	width: 11px;
+	height: 11px;
+	background: #1d1d1b;
+	border-radius: 50%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 58px;
+}
+.zhong{
+	width: 35px;
+	height: 4px;
+	background: #0a0a0a;
+	float: left;
+	margin-top: 12px;
+    margin-left: 30px;
+    border-radius: 2px;
+}
+.yd{
+	width: 10px;
+	height: 10px;
+	background: #262626;
+	border-radius: 50%;
+	float: right;
+	margin-right: 57px;
+	margin-top: 11px;
+}
+.pingmu{
+	width: 221px;
+	height: 434px;
+	background: -webkit-linear-gradient(top,#2c3642,#364562,#143568,#11549a,#3a7fba);
+	background: -moz-linear-gradient(top,#2c3642,#364562,#143568,#11549a,#3a7fba);
+	background: -ms-linear-gradient(top,#2c3642,#364562,#143568,#11549a,#3a7fba);
+	background: -o-linear-gradient(top,#2c3642,#364562,#143568,#11549a,#3a7fba);
+	background: linear-gradient(top,#2c3642,#364562,#143568,#11549a,#3a7fba);
+    margin: 0 auto;
+    border: 2px solid #000;
+    border-radius: 5px;
+    /* position: relative; */
+}
+.xiamian{
+	width: 235px;
+	height: 26px;
+	background: #e9edee;
+	border-bottom-left-radius: 16px;
+	border-bottom-right-radius: 16px;
+}
+.yinliang1{
+	width: 5px;
+	height: 34px;
+	background: #eacdcd;
+	border-radius: 3px;
+	float: right;
+	margin-bottom: 305px;
+	position: absolute; 
+	top: 114px;
+	right: -5px;
+	font-size: 3px;
+	color: #000;
+	text-align: center;
+	line-height: 34px;
+}
+.yinliang2{
+    width: 5px;
+	height: 34px;
+	background: #eacdcd;
+	border-radius: 3px;
+	float: right;
+	margin-bottom: 305px;
+	position: absolute;
+	top: 148px;
+	right: -5px;
+	font-size: 3px;
+	color: #000;
+	text-align: center;
+	line-height: 34px;
+}
+.kaiguan{
+	width: 5px;
+	height: 34px;
+	background: #eacdcd;
+	border-radius: 3px;
+	float: right;
+	margin-bottom: 305px;
+	position: absolute;
+	top: 205px;
+	right: -5px;
+}
+.back{
+	display: block;
+	width: 200px;
+	height:30px;
+	margin-top: 10px;
+	margin:0 auto;
+	text-align: center;
+	font-size: 28px;
+	color: #979797;
+}
